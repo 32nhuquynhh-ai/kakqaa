@@ -6,6 +6,9 @@
 .header{
   flex:15%;
   background-color: lightgrey;
+  background: url ("images/nq.png") center/100% 100% no-repeat;
+  aspect-ratio: 6/1;
+  width:100%;
 }
 .menu{
   flex:5%;
@@ -14,7 +17,7 @@
   align-items:center;
 }
 .menu a {
-  padding :15px 20px ;
+  padding :10px 15px ;
   color :red;
 
 }
@@ -22,6 +25,11 @@
   background-color:lightgrey;
   color:black;
 }
+. content{
+  flex:70%;
+  background-color: white;
+}
+
 .content iframe {
   flex:1;
   width:100%;
