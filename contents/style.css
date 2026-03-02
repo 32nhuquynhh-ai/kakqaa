@@ -6,7 +6,7 @@
 .header{
   flex:15%;
   background-color: lightgrey;
-  background: url ("images/nq.png") center/50% 100% no-repeat;
+  background: url ("images/nq.png") center/50% 50% no-repeat;
   aspect-ratio: 6/1;
   width:100%;
 }
